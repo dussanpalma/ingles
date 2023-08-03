@@ -1,0 +1,134 @@
+/-- 
+Alphabet 
+--/
+
+A(Ei) like Alpha
+B(Bi) like Boy
+C(Ci) as an Car
+D(Di) like Dussan
+E(I) as an Elephant
+F(Ef) like Fast
+G(Gi) like Goal(Goul)
+H(Eich) as an Horse
+I(Ai) like IA(AiEi)
+J(Jey) as an JB
+K(Kei) as an Keila
+L(El) like Lion
+M(Em) as an Mother
+N(En) like Nurse(Nours)
+O(Ou) as an(asen) Oscar
+P(Pi) as an Piter(Pirer)
+Q(Quiu) like Quarter(Quarer)
+R(Ar) as an Richard
+S(Es) as an Society(Sosaiery)
+T(Ti) like Tea
+U(Iu) as an(asen) United Kingdon(Iunaired Kingdom)
+V(Vi) like View
+W(Dabliu) as en Willy Wonka
+X(Ecs) Like X-ray (Ecs-ruey)
+Y(way) as an Yankee (Yanki)
+Z(Zi) Like Zebra (Sibra)
+
+Practice makes perfect (Practis meiks perfect)
+
+/-- 
+Numbers
+--/
+
+one hundred(jondred) 100£
+one hundred and twenty 120£
+two hundred 200£
+two hundred and one 201£
+three hundred 300£
+three hundred and twenty five 325£
+four hundred 400£
+nine hundred 900£
+one thousand(tausan) 1.000£ (paunds) 
+one thousand and one hundred€ (iuros)
+two thousand 2.000£
+three thousand eight hundred and twenty 3.820£
+ten thousand 10.000£
+one hundred thousand 100.000£
+five hundred and twenty eight thousand 528.000£
+one hundred eight five thousand three hundred fourty 185.340£
+eight hundred and twenty four 824£
+ninety thousand and eight hundred  90.800£
+thirty four thousand five hundred and fourty three  34.543£
+
+/-- 
+Sing, Symbols
+--/
+
+. seguido = dot(dat)
+. final = period(piriod)
+. de numeraciones = point(one point five)ej: 1.5 
++ = plus(plas)
+- = Minus(Mainus)
+x Multiplicacion = Times
+= = Equals(Icuals)
+Is iquals to = Es igual a
+: = colom(cólon)
+; = Semicolon(Semicólon)
+? = Question mark(cuestion mark)
+! = Exclamation mark(Exclameishon mark)
+< = Less than(Less dan)
+> = More than(More dan)
+{} = Brace(Breis)
+@ = At(at)
+- = Dash
+_ = underscore(Onderscor)
+| = bar
+/ = Slash
+& = Ampersand
+* = Asterisk
+[] = square bracket(Esquer bruacket)
+
+My email address is.. dussanpalma At hotmail dot com
+
+/-- 
+Verb to be 
+--/
+
+Time Present(Afirmative, Negative, Interrogative)
+
+#Afirmative
+Pronombres + to be
+Primera persona
+I  + am(I´m)
+
+Segunda persona 
+You + are(You's)
+
+Tercera persona singular
+He + is(He's)
+She + is(She's)
+It + is(It's)
+
+We + are(We´re)
+You + are(You´re)
+They + are(They´re)
+
+Subject + verb to be + complement.
+I  + am + CTO
+
+#Negative
+Subject + verb to be + not + complement
+I + am + not + a + chef
+You + are + not + a + chef
+He + is + not + a + chef
+She + is + not + a + chef
+It + is + not + a + pencil
+We + are + not + chefs
+You + are + not + chefs
+They + are + not + chefs
+
+#Interrogative
+Verb to be + subject + complement + ?
+
+Ej de respuestas: 
+1. Yes, I am
+2. No, I am not
+
+Plurar - Singular
+Men - Man
+Women - Woman
