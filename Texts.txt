@@ -1,6 +1,4 @@
-/-- 
-Alphabet 
---/
+/-- Alphabet --/
 
 A(Ei) like Alpha
 B(Bi) like Boy
