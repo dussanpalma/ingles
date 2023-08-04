@@ -2,29 +2,29 @@
 
 A(Ei) like Alpha
 B(Bi) like Boy
-C(Ci) as an Car
+C(Ci) as in Car
 D(Di) like Dussan
-E(I) as an Elephant
+E(I) as in Elephant
 F(Ef) like Fast
 G(Gi) like Goal(Goul)
-H(Eich) as an Horse
+H(Eich) as in Horse
 I(Ai) like IA(AiEi)
-J(Jey) as an JB
-K(Kei) as an Keila
+J(Jey) as in JB
+K(Kei) as in Keila
 L(El) like Lion
-M(Em) as an Mother
+M(Em) as in Mother
 N(En) like Nurse(Nours)
-O(Ou) as an(asen) Oscar
-P(Pi) as an Piter(Pirer)
+O(Ou) as in(asin) Oscar
+P(Pi) as in Piter(Pirer)
 Q(Quiu) like Quarter(Quarer)
-R(Ar) as an Richard
-S(Es) as an Society(Sosaiery)
+R(Ar) as in Richard
+S(Es) as in Society(Sosaiery)
 T(Ti) like Tea
-U(Iu) as an(asen) United Kingdon(Iunaired Kingdom)
+U(Iu) as in(asen) United Kingdon(Iunaired Kingdom)
 V(Vi) like View
-W(Dabliu) as en Willy Wonka
+W(Dabliu) as in Willy Wonka
 X(Ecs) Like X-ray (Ecs-ruey)
-Y(way) as an Yankee (Yanki)
+Y(way) as in Yankee (Yanki)
 Z(Zi) Like Zebra (Sibra)
 
 Practice makes perfect (Practis meiks perfect)
@@ -52,6 +52,9 @@ one hundred eight five thousand three hundred fourty 185.340£
 eight hundred and twenty four 824£
 ninety thousand and eight hundred  90.800£
 thirty four thousand five hundred and fourty three  34.543£
+30 = thery(thhery)
+ill = Enfermo (Iull)
+her = jerr
 
 /-- 
 Sing, Symbols
@@ -130,3 +133,99 @@ Ej de respuestas:
 Plurar - Singular
 Men - Man
 Women - Woman
+
+Time Past(Afirmative, Negative, Interrogative)(Estructuras son las mismas)
+
+Pronombres + to be
+I  + was
+You + were
+He + was
+She + was
+It + was
+We + were
+You + were
+they + were
+
+#Afirmative Past
+You + were + a teacher
+
+#Negative Past
+Subject + verb to be + not + complement 
+You + were + not + a teacher
+
+#Interrogative Past
+Verb to be + subject + complement + ? 
+Were + you + a teacher
+I was wrong
+I was your men 
+
+#Ejercicio de Verb to be -Past -Presente
+He is my dad and he is an Arquitect
+He is my brother and he is a Student
+She is my Mother and She is a Teacher
+She is my Sister and She is a Student
+
+She was my friend at the school, her name is Karla
+He was my friend at the school, his name is Karla
+
+#Pronombres Demostrativos
+Singular - Plurar
+This(Hace referencia a un objeto cerca)  - These(dis)
+That(Hace referencia a un objeto lejos)(dat)  - Those(Dous)
+
+#Present Ver to be
+Promombre + Verb to be
+This + is 
+That + is
+These + are
+Those + are
+
+#Past Ver to be
+-Singular
+This + was 
+That + was 
+-Plurar
+These + were
+Those + were
+
+#Past Ver to be Negative
+These + were + not + complement
+
+#Past Ver to be Interrogative
+Is this your phone
+
+Time Future(Afirmative, Negative, Interrogative)(Estructuras son las mismas)
+
+Pronombres + to be
+I  + will be(Estara/ sera)
+You + will be
+He + will be
+She + will be
+It + will be
+We + will be
+You + will be
+they + will be
+
+this + will be
+that + will be
+these + will be
+those + will be
+
+#Negative
+I  + will not be/won´t be
+You + will not be/won´t be
+He + will not be/won´t be
+She + will not be/won´t be
+It + will not be/won´t be
+We + will not be/won´t be
+You + will not be/won´t be
+they + will not be/won´t be
+
+this + will not be/won´t be
+that + will not be/won´t be
+these + will not be/won´t be
+those + will not be/won´t be
+
+#Interrogative
+Will + subject + be + complemento + ?
+Will + you + be + complement + ?
