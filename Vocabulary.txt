@@ -137,3 +137,4 @@ Stewardess (Stiwordes) -Azafatas
 dozen(DOusen) -docena
 eggs(Egs) -huevos
 neighborhood(neiborjud) -barrio
+is spelled
