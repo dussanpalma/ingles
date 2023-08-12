@@ -1,5 +1,4 @@
 /-- Alphabet --/
-
 A(Ei) like Alpha
 B(Bi) like Boy
 C(Ci) as in Car
@@ -20,7 +19,7 @@ Q(Quiu) like Quarter(Quarer)
 R(Ar) as in Richard
 S(Es) as in Society(Sosaiery)
 T(Ti) like Tea
-U(Iu) as in(asen) United Kingdon(Iunaired Kingdom)
+U(Iu) as in(asin) United Kingdon(Iunaired Kingdom)
 V(Vi) like View
 W(Dabliu) as in Willy Wonka
 X(Ecs) Like X-ray (Ecs-ruey)
@@ -86,13 +85,12 @@ _ = underscore(Onderscor)
 
 My email address is.. dussanpalma At hotmail dot com
 
-/-- 
-Verb to be 
---/
+/--  Verb to be  --/
 
 Time Present(Afirmative, Negative, Interrogative)
 
 #Afirmative
+Subject + verb to be + complement
 Pronombres + to be
 Primera persona
 I  + am(I´m)
@@ -104,13 +102,10 @@ Tercera persona singular
 He + is(He's)
 She + is(She's)
 It + is(It's)
-
 We + are(We´re)
 You + are(You´re)
 They + are(They´re)
 
-Subject + verb to be + complement.
-I  + am + CTO
 
 #Negative
 Subject + verb to be + not + complement
@@ -126,10 +121,6 @@ They + are + not + chefs
 #Interrogative
 Verb to be + subject + complement + ?
 
-Ej de respuestas: 
-1. Yes, I am
-2. No, I am not
-
 Plurar - Singular
 Men - Man
 Women - Woman
@@ -137,7 +128,7 @@ Women - Woman
 Time Past(Afirmative, Negative, Interrogative)(Estructuras son las mismas)
 
 Pronombres + to be
-I  + was
+I  + was(se pronuncia wos)
 You + were
 He + was
 She + was
@@ -147,6 +138,7 @@ You + were
 they + were
 
 #Afirmative Past
+Subject + verb to be + complement
 You + were + a teacher
 
 #Negative Past
@@ -159,12 +151,15 @@ Were + you + a teacher
 I was wrong
 I was your men 
 
-#Ejercicio de Verb to be -Past -Presente
+#Ejercicio de Verb to be 
+
+-Present
 He is my dad and he is an Arquitect
 He is my brother and he is a Student
 She is my Mother and She is a Teacher
 She is my Sister and She is a Student
 
+-Past
 She was my friend at the school, her name is Karla
 He was my friend at the school, his name is Karla
 
@@ -197,6 +192,8 @@ Is this your phone
 Time Future(Afirmative, Negative, Interrogative)(Estructuras son las mismas)
 
 Pronombres + to be
+#Afirmative
+Subject + verb to be + complement
 I  + will be(Estara/ sera)
 You + will be
 He + will be
@@ -205,13 +202,13 @@ It + will be
 We + will be
 You + will be
 they + will be
-
 this + will be
 that + will be
 these + will be
 those + will be
 
 #Negative
+Subject + verb to be + not + complement 
 I  + will not be/won´t be
 You + will not be/won´t be
 He + will not be/won´t be
@@ -220,7 +217,6 @@ It + will not be/won´t be
 We + will not be/won´t be
 You + will not be/won´t be
 they + will not be/won´t be
-
 this + will not be/won´t be
 that + will not be/won´t be
 these + will not be/won´t be
@@ -229,3 +225,101 @@ those + will not be/won´t be
 #Interrogative
 Will + subject + be + complemento + ?
 Will + you + be + complement + ?
+
+
+WH Questions
+
+What -Que -Cuales
+When -Cuando
+Where -Donde
+Who (Ju) - Quien
+Whom (Jum) -A quienes
+Which (wich) -Cuales -Que 
+Whose (Jus) - De quien es
+Why (Way) -Por qué en pregunta / Because(Bicoss) -Porque en respuesta
+How (Jau) - Como o que tan
+How long - Hace cuanto
+
+(Present, past, future)
+WH Question + Verb To Be + Subject + complement + ?
+
+Present
+What + is + your + name ?
+
+Past
+Where + was + your + mother ?
+
+Future
+WH Question + Will + Subject + be + complement + ?
+When Will you be here?
+
+#Tema nuevo 
+/-- There to be --/ (Der)(Haber)
+Afirmative: There + to be + complement
+Negative: There + to be + not + complement
+Interrogative: To be + there + complement + ?
+
+Ej: 
+There´s a car in the car park
+There is not a car in the car park
+Is there a car in the car park
+
+
+There + to be
+There + is(There´s) (Ders)
+There + are
+
+
+#Tema nuevo
+/-- Countable and uncountable --/ 
+many -muchos
+
+#Countable (a/an)
+How many (Jau many) -Cuantos
+
+#Uncountable
+How much (Jau much) -Cuanto hay
+
+some: algunos/algo
+a lot of(ALOROF) o lots of: bastante, mucho
+much: mucho
+a bit(bit) of: un poco de
+a few(a fiew): uncountable
+several(several): -varios
+
+large quantities: a lot of, much, many
+small quantities: a bit of, a little bit, a few
+undefined: some, any
+
+/-- There to be + Countable and uncountable --/
+
+#Negative
+Se cambia el some(Uncountable) por el any/no
+Ejemplo: 
+There´s A LOT OF fruit in the basket.
+There´s not ANY fruit in the basktet
+There´s no fruit in the basktet.
+
+No, There will not be meeting this week
+
+#Interrogative
+Interrogative: To be + there + be + complement + ?
+Is there A hotel near? (Singular)
+Is there ANY hotel near? (Indefinido)
+
+#Tema nuevo
+/-- Possesive --/
+Subject - Possesive Pronouns -Possesive Adjectives
+
+First Person
+I      - mine(main)    - My(may)   This cellphone is mine - This is my cellphone
+We     - Ours(Auers)   - Our(Aur)  This keys are Ours - This are our keys
+
+Second Person
+You    - Yours   - Your   This notebook is yours - This is your notebook
+
+Third Person
+He     - His     - His    This pencil is his - This is his pencil
+She    - Hers    - Her    This computer is hers - This is her computer
+It     - Its     - Its    This house is its(Esta casa es de eso) - This is its house
+They   - Theirs  - Their  This tv is theirs - This is their tv

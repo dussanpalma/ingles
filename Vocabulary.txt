@@ -1,0 +1,139 @@
+/-- Vocabulary --/
+
+It´ll (Irul) (It will) -Estara
+Busy(Bizi)
+Minutes(Minets)
+Student(Stiudent)
+Train(Truein)
+Instructor(INStroctor)
+That(dad) -Pronombre
+Angry(Engry) -enojado
+Hungry(hongry) -hambre
+Thirsty(thersty) -sediento
+Pleased to meet you(plisd) -un placer conocerte
+Take(Teik) -tomar -asiento
+Seat(Sit)-asiento
+HR = Human Resources(Jiuman Risources)
+Weather(weder) - clima
+walk(wok) -caminar
+bumpy (bompy) - inusual, irregular, desequilibrado
+awful(ofull) -horrible
+Salty(saulty) - salado
+Waiters(weirers) -meseros
+Interesting(INterstin) -interesante
+When(WEN) -Cuando
+Where(werr) -Donde
+engineer(Engenir)
+Great(grueit)
+
+/-- Vocabulary family --/
+The name of my great grandfather is 
+The name of my great grandfather was
+Uncle(oncol) -tio
+Aunt(Ont) -tia
+Brother-in-law(in low) -cuñado
+Sister-in-law(in low) -cuñada
+Husband(Hostband) -Esposo
+Wife(Waife) -Esposa
+Cousin(Cosin) -primo -prima Cousins -Primos -Primas
+Cousin´s wife(Esposa de mi primo) --Se utiliza el posesivo -Cousin´s(Cosins)
+Cousin´s Husband(Esposo de mi prima) --Se utiliza el posesivo -Cousin´s(Cosins)
+Nephew(Nifiu) -sobrino
+Niece(nis) -sobrina
+Son -hijo
+Daughter -(Dorer) -hija
+Daughter-in-law -(in low) -esposa de mi hijo
+Son-in-law -(in low) -esposo de mi hija
+Grandson(Gruandson) -nieto
+Grandaughter() -nieto
+
+(Padrastros, hijastros)
+StepSon
+StepFather
+StepBrother
+
+(Padrino, ahijada)
+GodFather
+GodDaughter
+
+My grandparents (Parents) -Para referirse a que tengo varios abuelos
+Siblings (Ciblins) -Para referirse a que tengo varios hermanos (Two Siblings)
+My Parents - Para referirse a mis padres
+
+(Posesivo)
+Abraham and mona are my father´s parents 
+Clancy and Jackie are my mother´s parents 
+Ling is my aunt´s Daughter
+Herb is my father´s Brother
+Patty and Selma are my mother´s sisters
+Homer is Marge's Husband
+Marge is Homer´s Wife
+Bart is Homer's Son
+Lisa is Marge's Daughter
+Bart, Lisa and Maggie are Homero and Marge´s Children
+Bart is Lisa's Brother
+
+/-- Vocabulary --/
+Knife (naif) -Cuchillo
+Cigarttes (cigaruest) -Cigarrillo
+Bag (Bolso)
+Under(Ounder) -De bajo
+Because(Bicoss) -Porque en respuesta
+died (daid) -Pasado del verbo morir
+Absent(Absent) -Ausente
+Bed -Cama
+Sleepy (Slipi)  - Somnoliento - Sueño
+Again (Egein) - Nuevamente
+
+/-- Vocabulary --/
+River (river) -rio
+Road (roud) -una forma de decir calle
+Friday (Fraidey) -viernes
+favorite (feivorit) -favorito
+desk (desck) -escritorio
+Glass (glas) -vaso
+Glasses (glases) -lentes
+Chairs (chers) -sillas
+Some (Som) -Algunos o algun
+Knowledge(noulech) -conocimiento
+Measure (Meshure) -medir
+people(Pipol) -varias personas
+person(Person) - una persona
+jug (jock) - harra
+Airfield (eirfiold) -campo aereo
+Letters(lerrers) -cartas
+basket (basket) -canasta
+absent(absent) -ausente
+fridge(frichh) -nevera
+meat (mit) -carne
+butter (borer) -mantequilla
+group (grup) -grupo
+noise (nois) -ruido
+can(caen) -lata de cerveza
+enough(inof) -suficiente
+trip(trip) -viajes
+bill(bil) -factura -cuenta
+bread(bred) -pan
+leap year (lip) -año bisiesto
+evening(ivning) -tarde casi noche
+tree(tri) -arbol
+
+/-- Vocabulary Airport --/
+Airplane - plane(Eirplein - plein) -Avion
+Airline - (EirLain) - The company that owns the plane
+Baggage - (BAguech) -Equipaje
+Baggage Claim (Cleim) -Reclamar equipaje
+Boarding Time (Bording time) -tiempo abordaje
+Allowed (Aloud) -Permitido
+Customs (Costoms)
+Passport -Pasaporte An Official document
+Runway (Ranwey) -pista aterrizaje
+Captain(Captein) -Capitan
+First-class -Primera clase
+Life vest -Salvavidas
+Safety(Seifty) -seguridad
+Overhead bin (Overhed) -Compartimiento superior
+Stewardess (Stiwordes) -Azafatas
+dozen(DOusen) -docena
+eggs(Egs) -huevos
+neighborhood(neiborjud) -barrio
