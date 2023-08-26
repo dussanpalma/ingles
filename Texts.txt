@@ -1,4 +1,4 @@
-/-- Alphabet --/
+/-- Alphabet --/:
 A(Ei) like Alpha
 B(Bi) like Boy
 C(Ci) as in Car
@@ -29,7 +29,7 @@ Z(Zi) Like Zebra (Sibra)
 Practice makes perfect (Practis meiks perfect)
 
 /-- 
-Numbers
+Numbers:
 --/
 
 one hundred(jondred) 100£
@@ -56,7 +56,7 @@ ill = Enfermo (Iull)
 her = jerr
 
 /-- 
-Sing, Symbols
+Sing, Symbols:
 --/
 
 . seguido = dot(dat)
@@ -85,7 +85,7 @@ _ = underscore(Onderscor)
 
 My email address is.. dussanpalma At hotmail dot com
 
-/--  Verb to be  --/
+/--  Verb to be  --/:
 
 Time Present(Afirmative, Negative, Interrogative)
 
@@ -163,8 +163,9 @@ She is my Sister and She is a Student
 She was my friend at the school, her name is Karla
 He was my friend at the school, his name is Karla
 
+#Tema Nuevo
 #Pronombres Demostrativos
-Singular - Plurar
+Singular - Plurar(Eso es)
 This(Hace referencia a un objeto cerca)  - These(dis)
 That(Hace referencia a un objeto lejos)(dat)  - Those(Dous)
 
@@ -227,8 +228,7 @@ Will + subject + be + complemento + ?
 Will + you + be + complement + ?
 
 
-WH Questions
-
+WH Questions:
 What -Que -Cuales
 When -Cuando
 Where -Donde
@@ -254,7 +254,7 @@ WH Question + Will + Subject + be + complement + ?
 When Will you be here?
 
 #Tema nuevo 
-/-- There to be --/ (Der)(Haber)
+/-- There to be --/ (Der)(Haber):
 Afirmative: There + to be + complement
 Negative: There + to be + not + complement
 Interrogative: To be + there + complement + ?
@@ -264,18 +264,17 @@ There´s a car in the car park
 There is not a car in the car park
 Is there a car in the car park
 
-
 There + to be
 There + is(There´s) (Ders)
 There + are
 
-
-#Tema nuevo
+#Tema nuevo Quantifiers
 /-- Countable and uncountable --/ 
 many -muchos
 
 #Countable (a/an)
 How many (Jau many) -Cuantos
+How many + people + were there + in the party
 
 #Uncountable
 How much (Jau much) -Cuanto hay
@@ -300,7 +299,13 @@ There´s A LOT OF fruit in the basket.
 There´s not ANY fruit in the basktet
 There´s no fruit in the basktet.
 
+#Future
 No, There will not be meeting this week
+There will be a meeting next friday
+There will not be a meeting next friday
+There won´t be a meeting next friday
+Will there be a meeting next friday
+
 
 #Interrogative
 Interrogative: To be + there + be + complement + ?
@@ -311,15 +316,94 @@ Is there ANY hotel near? (Indefinido)
 /-- Possesive --/
 Subject - Possesive Pronouns -Possesive Adjectives
 
-First Person
+First Person:
 I      - mine(main)    - My(may)   This cellphone is mine - This is my cellphone
-We     - Ours(Auers)   - Our(Aur)  This keys are Ours - This are our keys
+We     - Ours(Auers)   - Our(Aur)(Nuestro)  This keys are Ours - This are our keys
 
-Second Person
+Second Person:
 You    - Yours   - Your   This notebook is yours - This is your notebook
 
-Third Person
+Third Person:
 He     - His     - His    This pencil is his - This is his pencil
 She    - Hers    - Her    This computer is hers - This is her computer
 It     - Its     - Its    This house is its(Esta casa es de eso) - This is its house
 They   - Theirs  - Their  This tv is theirs - This is their tv
+
+
+Saxon genitive(Genitivo sajon):
+This Student´s book is new
+This Students´ book is new
+John has a dog, the dog is John´s o the dog is his
+
+#Tema nuevo
+Have got(jaf gat) -tener
+
+#Have got Presente Afirmative   
+Have Prural
+Has Singular
+Pronombre + have/has got / abreviacion + complement
+
+Primera persona:
+I  + have got/I've got(Aif gat)
+You + have got/You've got(Iuf gat)
+
+Tercera Persona:
+He + has got/he's got
+She + has got/She's got
+It + has got/It's got
+
+We + have got/We've got(Wif gat)
+You + have got/You've got
+they + have got/They've got(Deifgat)
+
+-No aplica para pronombres demostrativos por ahora-
+#Recordartorio Apostrofe 's 
+Peter´s a doctor.  -verb to be
+There´s a car. -There to be
+This is Peter´s car. -Possesive
+Peter´s got many friends. -Have got (Peter has/Peter´s)
+
+#Have got Negative 
+Subject + haven´t / hasn´t got + complement
+Primera persona:
+I  + have not got/haven´t got(javent gat)
+You + have not got/haven´t got(javent gat)
+
+Tercera Persona:
+He + has not got/hasn´t got(jacent gat)
+She + has not got/hasn´t got(jacent gat)
+It + has not got/hasn´t got(jacent gat)
+
+We + have not got/haven´t got(javent gat)
+You + have not got/haven´t got(javent gat)
+they + have not got/haven´t got(javent gat)
+
+#Have got Interrogative 
+Have + subject + got + complement + ?
+Have + you + got + a car + ?
+
+- How many cars have they got?
+
+No, it has not got
+Yes, it has got
+
+#Tema nuevo
+Adjectives: Para describir cosas - no cambian a plurar y se cambia el orden, es igual masculino y femenino.
+
+The black cat - El negro gato
+Tommy is a black cat 
+
+#Tema nuevo
+Articles: 
+
+undefined: 
+Singular
+A(a) - Un/Una
+An - Un/Una (Se utiliza cuando la palabra que sigue empieza con vocal o sonido de vocales)
+
+defined:
+Plurar, Singular, Femenino, Masculino
+The(de) - Los/Las/El/La
+
+Show me a photograph: (Muéstrame una fotografía) (cualquiera fotografía) 
+Show me the photograph: (Muéstrame la fotografía) (una fotografía específica)

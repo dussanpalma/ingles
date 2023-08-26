@@ -46,6 +46,7 @@ Daughter-in-law -(in low) -esposa de mi hijo
 Son-in-law -(in low) -esposo de mi hija
 Grandson(Gruandson) -nieto
 Grandaughter() -nieto
+GrandChildrens - Nietos
 
 (Padrastros, hijastros)
 StepSon
@@ -53,7 +54,7 @@ StepFather
 StepBrother
 
 (Padrino, ahijada)
-GodFather
+GodFather (Gad)
 GodDaughter
 
 My grandparents (Parents) -Para referirse a que tengo varios abuelos
@@ -118,7 +119,7 @@ leap year (lip) -año bisiesto
 evening(ivning) -tarde casi noche
 tree(tri) -arbol
 
-/-- Vocabulary Airport --/
+/-- Vocabulary Airport --/:
 Airplane - plane(Eirplein - plein) -Avion
 Airline - (EirLain) - The company that owns the plane
 Baggage - (BAguech) -Equipaje
@@ -137,4 +138,21 @@ Stewardess (Stiwordes) -Azafatas
 dozen(DOusen) -docena
 eggs(Egs) -huevos
 neighborhood(neiborjud) -barrio
-is spelled
+is spelled(deletrear)
+Fun (Fon) -divertido
+museum (miusium) -museo
+Silly (SiLy) -Tonto/tonta
+Took(tuk) - tomar
+left(left) -dejo
+Coat(Cout) -abrigo
+Soldiers(Soldados)
+My flat(Apartamento)
+Wheels -wiels (Llantas)
+Uniform(iuniform)
+Pages(Peiyes)
+Eyes(Ays)
+Hair(heir)
+Ligther(laither)
+fingers: dedos
+That’s it:(Dats it) Eso es todo
+hangry (Hambriento y enojado)
