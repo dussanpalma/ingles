@@ -1,4 +1,4 @@
-/-- Vocabulary --/
+/-- Vocabulary --/:
 
 It´ll (Irul) (It will) -Estara
 Busy(Bizi)
@@ -26,13 +26,13 @@ Where(werr) -Donde
 engineer(Engenir)
 Great(grueit)
 
-/-- Vocabulary family --/
+/-- Vocabulary family --/:
 The name of my great grandfather is 
 The name of my great grandfather was
 Uncle(oncol) -tio
 Aunt(Ont) -tia
-Brother-in-law(in low) -cuñado
-Sister-in-law(in low) -cuñada
+Brother-in-law(in lo) -cuñado
+Sister-in-law(in lo) -cuñada
 Husband(Hostband) -Esposo
 Wife(Waife) -Esposa
 Cousin(Cosin) -primo -prima Cousins -Primos -Primas
@@ -86,7 +86,7 @@ Bed -Cama
 Sleepy (Slipi)  - Somnoliento - Sueño
 Again (Egein) - Nuevamente
 
-/-- Vocabulary --/
+/-- Vocabulary --/:
 River (river) -rio
 Road (roud) -una forma de decir calle
 Friday (Fraidey) -viernes
@@ -120,6 +120,7 @@ evening(ivning) -tarde casi noche
 tree(tri) -arbol
 
 /-- Vocabulary Airport --/:
+Delayed - tarde el avion
 Airplane - plane(Eirplein - plein) -Avion
 Airline - (EirLain) - The company that owns the plane
 Baggage - (BAguech) -Equipaje
@@ -156,3 +157,65 @@ Ligther(laither)
 fingers: dedos
 That’s it:(Dats it) Eso es todo
 hangry (Hambriento y enojado)
+
+/-- Vocabulary hour --/:
+In the morning - Hasta las 11:59am
+Midday - noon(nun) - 12:00pm
+In the afternoon - 1:00pm a 5:00pm
+In the evening(ifning) - 6:00pm a 9:00pm
+At night - 9:00pm a 11:59pm
+midnight - 12:00am
+
+/-- Vocabulary VERB --/:
+To answer(anser) - responder
+to receive(ricif) - recibir
+to arrive - llegar
+to ask - preguntar
+To ask for - pedir
+To come - venir 
+To dry - secar
+to fix - reparar
+to give - dar
+to Leave - dejar, partir, irse
+to see - ver
+to look at - mirar
+to watch - observar
+to make - hacer de fabricar
+to spend - gastar
+to stay -  permanecer, quedarse
+To take - tomar, agarrar
+To talk - conversando
+To Speak - Hablar
+To tell - contar, narrar
+To wear - vestir, usar de ropa
+To put - poner 
+Am i(Amai)
+
+/-- Vocabulary actividades frecuentes --/:
+
+Get up(ap) - Levantarse
+Take/Have a shower - bañarse
+Get dressed(drues) - ponerse la ropa
+Brunch - Desalmuerzo
+Have breakfast/lunch/dinner - desayunar/almorzar/cenar
+Go home/to work/to the office - ir a casa - ir al trabajo - ir a la ofi
+Read Letters - lear cartas
+Read the newspaper - leer el periodico
+Work in the oficce - trabajar en la oficina
+Talk(tok) with friends - conversar con amigos
+Driving home - manejando a casa
+Driving to the oficce - manejar a la oficina
+To leave the oficce - dejar la oficina irse
+Do the shopping - hacer compras
+Buy the newspaper - comprar periodico
+Wacht tv - mirar television
+Listen to the radio(redio) - escuchar radio
+Write(ruait) to a friend - Escribirle a un amigo
+Play soccer - Jugar futbol
+Walk to the park - Caminar al parque
+work out - entrenar gym
+wash the car - lavar el carro
+clean the house - limpar la casa
+make the bed - hacer la cama
+cook a meal - cocinar una receta
+Go to the bed - irse a la cama

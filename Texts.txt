@@ -28,9 +28,7 @@ Z(Zi) Like Zebra (Sibra)
 
 Practice makes perfect (Practis meiks perfect)
 
-/-- 
-Numbers:
---/
+/-- Numbers --/:
 
 one hundred(jondred) 100£
 one hundred and twenty 120£
@@ -227,7 +225,7 @@ those + will not be/won´t be
 Will + subject + be + complemento + ?
 Will + you + be + complement + ?
 
-
+#Tema Nuevo
 WH Questions:
 What -Que -Cuales
 When -Cuando
@@ -407,3 +405,91 @@ The(de) - Los/Las/El/La
 
 Show me a photograph: (Muéstrame una fotografía) (cualquiera fotografía) 
 Show me the photograph: (Muéstrame la fotografía) (una fotografía específica)
+
+#Hour(Auer)
+What time is it?
+
+O clock:
+It is ten o clock - 10:00
+Its ten o clock
+
+Is quarter:
+Is quearter past ten - 10:15
+
+Is half(jalfs):
+It Is half past ten - 10:30
+It Is half past eight - 08:30
+
+Faltan 15 para las 10:
+it´s quarter to ten
+
+-Para decir cualquier minuto after de la hora:
+Is twenty three minutes(Minets) past eight - 08:21
+
+-Para decir cualquier minuto before de la hora:
+It is twenty minutes to nine - 8:40
+
+Se le quita el minutes si son multiplos de 5 o terminan en 5
+
+#Tema Nuevo
+Time continuous: (Present(Afirmative, Negative, Interrogative))
+Acciones que se estan haciendo en el presente(Estoy viendo televisor)
+Rules:
+Gerundio: ING al final del verbo
+I am watchING TV - Estoy viendo television
+
+1. Verbos terminan en consonante:
+Speak - Speaking(Hablando)
+Eat - Eating(Comiendo)
+Work - Working(Trabajando)
+
+2. Verbos en su forma normal(Infinitivo Ej Speak) terminan en E y esa es muda(Cuando se pronuncia), se quita la E y se agrega ING:
+Live(lif) - living(Viviendo)
+Write(ruait) - Writing(Escribiendo)(rairin)
+
+3. Si el verbo es infinitivo y es formado por C+V+C Ó C+C+V+C se duplica la ultima consonante y se le agrega el ING: 
+C - Consonante:
+V - Vocal:
+Sit - Sitting(Sentandose)(Zirin) C+V+C
+Cut(Kut) - Cutting(Cortando) C+V+C
+Stop - Stopping(Deteniendo) C+C+V+C
+Swim(suimm) - Swimming(Nadando) C+C+V+C
+
+Present Continous tense or Present Progressive:
+Subject(Pronombre) + verb to be + gerund(principal verb) + complemento 
+
+I + am + watching + TV
+
+Present Continous Negative:
+Subject(Pronombre) + verb to be + NOT + gerund(principal verb) + complemento 
+
+I + am + NOT + watching + TV
+
+Present Continous Interrogative:
+Verb to be + Subject(Pronombre) + gerund(principal verb) + complemento + ?
+
+Am + i + watching + TV + ?
+
+WH Questions + Continous: 
+Donde esta viviendo Jhon ahora?
+Where is Jhon living now?
+
+A que estan jugando los niños?
+What are children playing(Pleying)?
+
+Que estas haciendo?
+What are you doing(duing)?
+
+Am i(Amai)
+
+#Tema Nuevo 
+Th Sound: 
+1. Is it this, that, those, these, and there or for when that I eat this?
+
+2. Whether the weather is cold, whether the weather is hot, we’ll weather the weather, whatever the weather.
+
+#My first daily routine
+First, I get up and in the morning, I have breakfast, at noon I have lunch, at quarter past twelve I write to a friend, at two o'clock I work from home, at half past five I walk to the park and at eight o'clock I am studying English class.
+
+#Fechas, meses, horas, Icebraker
+Firts one minutes has got sixty seconds, one hour has got sixty minutes, one day has got twenty for hours, one week has got seven days, one month has got four weeks and one year has got twelve months
